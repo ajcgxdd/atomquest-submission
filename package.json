@@ -1,0 +1,9 @@
+{
+  "name": "atomquest-goal-portal",
+  "version": "1.0.0",
+  "description": "AtomQuest Goal Portal",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
